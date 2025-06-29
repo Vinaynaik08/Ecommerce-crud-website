@@ -37,9 +37,11 @@ ecommerce-crud-website/
 --> In the main dashboard yu will see two options a) Manage Categories b) Manage Products
 
 --> a) Manage Catergories
+
           In this we can add the categories and that will be displayed in the webpage which can be edited and deleled
           
 --> b) Manage Products
+
           In this page we can track the products which are present in the excel file and alse we can modify and delete the products from the excel file
 
 Here is the Live Demo of the website:
