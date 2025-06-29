@@ -43,11 +43,15 @@ ecommerce-crud-website/
 Here is the Live Demo of the website:
 https://ecommerce-crud-website-git-master-vinaynaik08s-projects.vercel.app/
 
-snapshots of the website
-![Screenshot 2025-06-29 223551](https://github.com/user-attachments/assets/ffb4f604-c1fc-4284-92eb-070eff000389)
-Dashboard
-![Screenshot 2025-06-29 223622](https://github.com/user-attachments/assets/9841a90d-e95c-432b-84af-e857a26fa49f)
-Category Page
-![Screenshot 2025-06-29 223603](https://github.com/user-attachments/assets/6212a0f8-9989-4125-9a29-5182a273adf7)
-Product Page
+snapshots of the website:
 
+Dashboard:
+![Screenshot 2025-06-29 223551](https://github.com/user-attachments/assets/ffb4f604-c1fc-4284-92eb-070eff000389)
+
+
+Category Page:
+![Screenshot 2025-06-29 223603](https://github.com/user-attachments/assets/6212a0f8-9989-4125-9a29-5182a273adf7)
+
+
+Product Page
+![Screenshot 2025-06-29 223622](https://github.com/user-attachments/assets/9841a90d-e95c-432b-84af-e857a26fa49f)
